@@ -1,0 +1,9 @@
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Release\MineSweeper 2.exe.config
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Release\MineSweeper 2.exe
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Release\MineSweeper 2.pdb
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper_2.MainForm.resources
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper_2.Properties.Resources.resources
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper 2.csproj.GenerateResource.Cache
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper 2.exe
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper 2.pdb
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Release\MineSweeper 2.csprojResolveAssemblyReference.cache

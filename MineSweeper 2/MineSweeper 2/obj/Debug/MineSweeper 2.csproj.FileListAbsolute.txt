@@ -1,0 +1,18 @@
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.exe.config
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.exe
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.pdb
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.csprojResolveAssemblyReference.cache
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper_2.MainForm.resources
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper_2.Properties.Resources.resources
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.csproj.GenerateResource.Cache
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.exe
+c:\users\slim\documents\visual studio 2012\Projects\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.pdb
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.exe.config
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.exe
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.pdb
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.csprojResolveAssemblyReference.cache
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper_2.MainForm.resources
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper_2.Properties.Resources.resources
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\obj\Debug\MineSweeper 2.csproj.GenerateResource.Cache
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.exe
+C:\Users\sLim\Desktop\업무\1. Project\etc_MineSweeper\MineSweeper 2\MineSweeper 2\bin\Debug\MineSweeper 2.pdb
